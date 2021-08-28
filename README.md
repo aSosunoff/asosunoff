@@ -1,4 +1,4 @@
-# <p align="center">`</>` CODER LIVE `</>`</p>
+# <p align="center">CODER LIVE</p>
 
 
 About me
