@@ -1,8 +1,6 @@
 # <p align="center">Hi, I'm CODER on JS and other languages</p>
 #### <p align="center">I specialize in ![](https://img.shields.io/badge/FRONTEND-000) and ![](https://img.shields.io/badge/BACKEND-000)</p>
 
----
-
 ## Current Languages and Tools
 
 <div align="center">
