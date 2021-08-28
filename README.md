@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm DEVELOPER on JS and other languages</p>
 ## <p align="center">I specialize in ![](https://img.shields.io/badge/FRONTEND-000) and ![](https://img.shields.io/badge/BACKEND-000)</p>
 
-## Current Languages and Tools
+##### Current Languages and Tools
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 
 
-## Other Languages and Tools
+##### Other Languages and Tools
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 </div>
 
-## Follow Me
+##### Follow Me
 
 <div align="center">
 
