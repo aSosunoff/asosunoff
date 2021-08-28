@@ -15,6 +15,9 @@
 ![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs)
 ![Vuex](https://img.shields.io/badge/Vuex-000?style=for-the-badge&logo=vuedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Html](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
+![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=CSS3)
 
 </div>
 
@@ -49,13 +52,13 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asosunoff&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asosunoff&layout=compact&langs_count=20&hide=html&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=asosunoff&hide=stars&count_private=true&show_icons=true&theme=dark" alt=""
