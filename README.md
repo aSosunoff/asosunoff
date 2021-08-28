@@ -1,9 +1,10 @@
 # <p align="center">Hi, I'm DEVELOPER on JS and other languages</p>
 ## <p align="center">I specialize in ![](https://img.shields.io/badge/FRONTEND-000) and ![](https://img.shields.io/badge/BACKEND-000)</p>
 
-##### Current Languages and Tools
 
 <div align="center">
+
+##### Current Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Type_Script-000?style=for-the-badge&logo=typescript)
@@ -19,9 +20,10 @@
 
 
 
-##### Other Languages and Tools
 
 <div align="center">
+
+##### Other Languages and Tools
 
 ![C#](https://img.shields.io/badge/c%23-000?style=for-the-badge&logo=csharp)
 ![Ext.Net](https://img.shields.io/badge/Ext.Net-000?style=for-the-badge&logo=csharp)
@@ -34,9 +36,10 @@
 
 </div>
 
-##### Follow Me
 
 <div align="center">
+
+##### Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/alexi_berg)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/alexi.berg)
