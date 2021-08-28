@@ -1,6 +1,9 @@
 # <p align="center">Hi, I'm CODER on JS</p>
+# <p align="center">I specialize in ![](https://img.shields.io/badge/FRONTEND-000) and ![](https://img.shields.io/badge/BACKEND-000)</p>
 
-## Languages and Tools
+
+
+## Current Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Type_Script-000?style=for-the-badge&logo=typescript)
@@ -11,3 +14,5 @@
 ![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vuedotjs)
 ![Vuex](https://img.shields.io/badge/Vuex-000?style=for-the-badge&logo=vuedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+
+## Other Languages and Tools
