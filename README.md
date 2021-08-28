@@ -38,4 +38,4 @@
 
 ## Follow Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/@alexi_berg)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/alexi_berg)
