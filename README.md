@@ -43,3 +43,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexander-sosunov-b27a32175/)
 
 </div>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asosunoff&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
