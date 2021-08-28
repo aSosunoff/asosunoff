@@ -38,4 +38,10 @@
 
 ## Follow Me
 
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/alexi_berg)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/alexi.berg)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexander-sosunov-b27a32175/)
+
+</div>
