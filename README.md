@@ -35,3 +35,7 @@
 ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft_Sql_Server-000?style=for-the-badge&logo=microsoftsqlserver)
 
 </div>
+
+## Follow Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/@alexi_berg)
