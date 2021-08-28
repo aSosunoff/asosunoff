@@ -1,4 +1,4 @@
-# <center style="text-align: center;">`</>` CODER LIVE `</>`</center>
+# <p align="center">`</>` CODER LIVE `</>`</p>
 
 
 About me
