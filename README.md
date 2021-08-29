@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm DEVELOPER on JS and other languages</p>
+# <p>Hi, I'm DEVELOPER on JS and other languages</p>
 
 ### <p>I specialize in ![](https://img.shields.io/badge/FRONTEND-000) and ![](https://img.shields.io/badge/BACKEND-000)</p>
 
