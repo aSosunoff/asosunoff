@@ -33,7 +33,7 @@
 ![Dapper](https://img.shields.io/badge/Dapper-404040?style=for-the-badge&logo=csharp)
 ![LINQ](https://img.shields.io/badge/LINQ-404040?style=for-the-badge&logo=csharp)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-404040?style=for-the-badge&logo=csharp)
-![TFS](https://img.shields.io/badge/TFS-v?style=for-the-badge&logo=csharp)
+![TFS](https://img.shields.io/badge/TFS-404040?style=for-the-badge&logo=csharp)
 ![SignalR](https://img.shields.io/badge/SignalR-404040?style=for-the-badge&logo=csharp)
 ![ExtJs](https://img.shields.io/badge/Ext.Js-404040?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-404040?style=for-the-badge&logo=php)
