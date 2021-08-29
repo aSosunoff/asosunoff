@@ -1,6 +1,6 @@
 ### Hi, I'm DEVELOPER on JS and other languages
 
-##### I specialize in ![](https://img.shields.io/badge/frontend-65c497?style=plastic) and ![](https://img.shields.io/badge/BACKEND-65c497)
+##### I specialize in ![](https://img.shields.io/badge/frontend-65c497?style=plastic) and ![](https://img.shields.io/badge/backend-65c497?style=plastic)
 
 ---
 
