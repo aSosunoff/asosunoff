@@ -1,8 +1,6 @@
 # <p align="center">Hi, I'm DEVELOPER on JS and other languages</p>
+
 ## <p align="center">I specialize in ![](https://img.shields.io/badge/FRONTEND-000) and ![](https://img.shields.io/badge/BACKEND-000)</p>
-
-
-<div>
 
 ##### Current Languages and Tools
 
@@ -26,14 +24,6 @@
 ![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=Jest)
 ![Axios](https://img.shields.io/badge/Axios-000?style=for-the-badge&logo=javascript)
 
-
-</div>
-
-
-
-
-<div align="center">
-
 ##### Other Languages and Tools
 
 ![C#](https://img.shields.io/badge/c%23-000?style=for-the-badge&logo=csharp)
@@ -52,18 +42,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 ![JQuery](https://img.shields.io/badge/JQuery-000?style=for-the-badge&logo=JQuery)
 
-</div>
-
-
-<div align="center">
-
 ##### Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/alexi_berg)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/alexi.berg)
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexander-sosunov-b27a32175/)
-
-</div>
 
 ---
 
