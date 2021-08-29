@@ -2,6 +2,8 @@
 
 #### I specialize in ![](https://img.shields.io/badge/FRONTEND-000) and ![](https://img.shields.io/badge/BACKEND-000)
 
+---
+
 ##### Current Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript)
