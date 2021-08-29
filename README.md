@@ -1,4 +1,4 @@
-### Hi, I'm DEVELOPER on JS and other languages
+### Hi, I'm ![](https://img.shields.io/badge/DEVELOPER-62dafb?style=flat-square) on ![](https://img.shields.io/badge/JS-efd919?style=flat-square) and other languages
 
 ##### I specialize in ![](https://img.shields.io/badge/frontend-65c497?style=flat-square) and ![](https://img.shields.io/badge/backend-65c497?style=flat-square)
 
