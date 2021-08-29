@@ -6,7 +6,7 @@
 
 ##### Current Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/Java_Script-000?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/Java_Script-000?style=plastic&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Type_Script-000?style=for-the-badge&logo=typescript)
 ![NodeJs](https://img.shields.io/badge/Node_Js-000?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=nodedotjs)
