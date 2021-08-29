@@ -4,10 +4,6 @@
 
 ---
 
-| wd | wd |
-| --- | --- |
-| ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript) ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript) ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript) | ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript) ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript) |
-
 ##### Current Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript)
