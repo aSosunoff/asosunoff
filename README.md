@@ -1,4 +1,4 @@
-### <div style="color: #404040">Hi, I'm DEVELOPER on JS and other languages</div>
+### Hi, I'm DEVELOPER on JS and other languages
 
 ##### I specialize in ![](https://img.shields.io/badge/FRONTEND-65c497) and ![](https://img.shields.io/badge/BACKEND-65c497)
 
