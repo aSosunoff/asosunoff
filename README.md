@@ -8,33 +8,25 @@
 
 ![JavaScript](https://img.shields.io/badge/Java_Script-404040?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Type_Script-404040?style=for-the-badge&logo=typescript)
-
 ![NodeJs](https://img.shields.io/badge/Node_Js-404040?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=nodedotjs)
-
 ![React](https://img.shields.io/badge/React-404040?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-404040?style=for-the-badge&logo=redux)
 ![Reduxsaga](https://img.shields.io/badge/Reduxsaga-404040?style=for-the-badge&logo=reduxsaga)
+![Nextdotjs](https://img.shields.io/badge/Next.js-404040?style=for-the-badge&logo=nextdotjs)
+![Webpack](https://img.shields.io/badge/Webpack-404040?style=for-the-badge&logo=Webpack)
 ![Vue](https://img.shields.io/badge/Vue-404040?style=for-the-badge&logo=vuedotjs)
 ![Vuex](https://img.shields.io/badge/Vuex-404040?style=for-the-badge&logo=vuedotjs)
-![Nextdotjs](https://img.shields.io/badge/Next.js-404040?style=for-the-badge&logo=nextdotjs)
-
-![Webpack](https://img.shields.io/badge/Webpack-404040?style=for-the-badge&logo=Webpack)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-404040?style=for-the-badge&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/Mongoose-404040?style=for-the-badge&logo=mongodb)
-
 ![Html](https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-404040?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/SCSS-404040?style=for-the-badge&logo=CSS3)
-
 ![GIT](https://img.shields.io/badge/git-404040?style=for-the-badge&logo=git)
-
 ![Enzyme](https://img.shields.io/badge/Enzyme-404040?style=for-the-badge&logo=javascript)
 ![Jasmine](https://img.shields.io/badge/Jasmine-404040?style=for-the-badge&logo=Jasmine)
 ![Jest](https://img.shields.io/badge/Jest-404040?style=for-the-badge&logo=Jest)
 ![Cypress](https://img.shields.io/badge/Cypress-404040?style=for-the-badge&logo=Cypress)
-
 ![Axios](https://img.shields.io/badge/Axios-404040?style=for-the-badge&logo=javascript)
 
 ##### Other Languages and Tools
