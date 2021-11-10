@@ -12,6 +12,7 @@
 ![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=nodedotjs)
 ![React](https://img.shields.io/badge/React-404040?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-404040?style=for-the-badge&logo=redux)
+![MobX](https://img.shields.io/badge/MobX-404040?style=for-the-badge&logo=mobx)
 ![Reduxsaga](https://img.shields.io/badge/Reduxsaga-404040?style=for-the-badge&logo=reduxsaga)
 ![Nextdotjs](https://img.shields.io/badge/Next.js-404040?style=for-the-badge&logo=nextdotjs)
 ![Webpack](https://img.shields.io/badge/Webpack-404040?style=for-the-badge&logo=Webpack)
